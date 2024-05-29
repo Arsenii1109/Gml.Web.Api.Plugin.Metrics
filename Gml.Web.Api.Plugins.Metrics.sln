@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gml.Web.Api.Plugins.Metrics", "Gml.Web.Api.Plugins.Metrics.csproj", "{E402A955-BC67-4218-85F0-13608400732A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gml.Core.Interfaces", "..\gml-core\src\Gml.Core.Interfaces\Gml.Core.Interfaces.csproj", "{F3BE865D-B369-40F9-97AA-EC1D1A113DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gml.Core", "..\gml-core\src\Gml.Core\Gml.Core.csproj", "{20AD525B-1832-41A5-870F-3B6473F61C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pingo", "..\gml-core\src\Pingo\Pingo\Pingo.csproj", "{AFECCB9F-6039-4CE4-B7BB-B9EA12FF10FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gml.Common", "..\gml-core\src\Gml.Common\Gml.Common\Gml.Common.csproj", "{240A96A0-3DA8-4A51-A90A-A813226E21B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmlLib.Core.Installer.Forge", "..\gml-core\src\CmlLib.Core.Installer.Forge\CmlLib.Core.Installer.Forge\CmlLib.Core.Installer.Forge.csproj", "{6D94940A-C5FC-4374-85C7-8D4700943730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmlLib", "..\gml-core\src\CmlLib.ExtendedCore\CmlLib\CmlLib.csproj", "{E9BD0B09-B988-431A-8AEB-DD21FBA850AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E402A955-BC67-4218-85F0-13608400732A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E402A955-BC67-4218-85F0-13608400732A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E402A955-BC67-4218-85F0-13608400732A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E402A955-BC67-4218-85F0-13608400732A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BE865D-B369-40F9-97AA-EC1D1A113DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BE865D-B369-40F9-97AA-EC1D1A113DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BE865D-B369-40F9-97AA-EC1D1A113DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BE865D-B369-40F9-97AA-EC1D1A113DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20AD525B-1832-41A5-870F-3B6473F61C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AD525B-1832-41A5-870F-3B6473F61C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AD525B-1832-41A5-870F-3B6473F61C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AD525B-1832-41A5-870F-3B6473F61C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFECCB9F-6039-4CE4-B7BB-B9EA12FF10FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFECCB9F-6039-4CE4-B7BB-B9EA12FF10FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFECCB9F-6039-4CE4-B7BB-B9EA12FF10FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFECCB9F-6039-4CE4-B7BB-B9EA12FF10FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240A96A0-3DA8-4A51-A90A-A813226E21B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240A96A0-3DA8-4A51-A90A-A813226E21B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240A96A0-3DA8-4A51-A90A-A813226E21B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240A96A0-3DA8-4A51-A90A-A813226E21B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D94940A-C5FC-4374-85C7-8D4700943730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D94940A-C5FC-4374-85C7-8D4700943730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D94940A-C5FC-4374-85C7-8D4700943730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D94940A-C5FC-4374-85C7-8D4700943730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BD0B09-B988-431A-8AEB-DD21FBA850AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BD0B09-B988-431A-8AEB-DD21FBA850AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BD0B09-B988-431A-8AEB-DD21FBA850AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BD0B09-B988-431A-8AEB-DD21FBA850AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
