@@ -7,17 +7,17 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0"/>
     </ItemGroup>
 
     <ItemGroup>
-      <Reference Include="Gml.Web.Api.EndpointSDK">
-        <HintPath>C:\Users\Akemiko\Desktop\Gml.Web.Api.Plugins.Dll\Gml.Web.Api.EndpointSDK.dll</HintPath>
-      </Reference>
+        <Reference Include="Gml.Web.Api.EndpointSDK">
+            <HintPath>C:\Users\Akemiko\Desktop\Gml.Web.Api.Plugins.Dll\Gml.Web.Api.EndpointSDK.dll</HintPath>
+        </Reference>
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\gml-core\src\Gml.Core.Interfaces\Gml.Core.Interfaces.csproj" />
+        <ProjectReference Include="..\gml-core\src\Gml.Core.Interfaces\Gml.Core.Interfaces.csproj"/>
     </ItemGroup>
 
 </Project>
